@@ -12,6 +12,7 @@ Homepage: http://github.com/cakoose/dropbox-sdk-haskell
 Category: Network APIs
 Build-Type: Simple
 Cabal-Version: >= 1.10
+Extra-Source-Files: trusted-certs.crt
 
 Library
     Build-Depends:
